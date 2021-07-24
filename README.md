@@ -40,14 +40,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 1. Faça o clone do projeto, através do comando
 
 ```bash
-$ git clone https://github.com/andressareis98/gatitobook.git
+$ git clone https://github.com/andressareis98/projeto-rxjs.git
 ```
 
-2. Entre no repositório
-
-```bash
-$ cd gatitobook
-```
+2. Entre no repositório do projeto
 
 3. Instale todas as dependências
 
